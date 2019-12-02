@@ -9,11 +9,11 @@ PocketFeed is an Android Application designed to help users access any type of a
 
 
 ### Projects
-- [My Projects](https://docs.google.com/document/d/1JGS7Y9C-Uvwd2FrqEueNCd5HqaHRmZXijylkANqhW4M/edit#)
+- [My Projects](https://docs.google.com/document/d/1JGS7Y9C-Uvwd2FrqEueNCd5HqaHRmZXijylkANqhW4M/edit?usp=sharing)
 
 
 ## Cloud APIs - Vision API
-**1) Detecting articles and games:
+- #### Detecting articles and games:
 
 <img src="https://github.com/Tanvi-Goyal/PocketFeed/blob/master/screens/vision.jpg" height=350>
 <br><br>
