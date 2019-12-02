@@ -20,9 +20,9 @@ PocketFeed is an Android Application designed to help users access any type of a
 
 ## Screens UI:
 
-- #### Articles
+- #### Articles . Learn . Play
 
-<img src="https://github.com/Tanvi-Goyal/PocketFeed/blob/master/screens/object.jpg" height=350> <img src="https://github.com/Tanvi-Goyal/PocketFeed/blob/master/screens/reader.jpg" height=350> 
+<img src="https://github.com/Tanvi-Goyal/PocketFeed/blob/master/screens/object.jpg" height=350> <img src="https://github.com/Tanvi-Goyal/PocketFeed/blob/master/screens/reader.jpg" height=350><img src="https://github.com/Tanvi-Goyal/PocketFeed/blob/master/screens/detect.jpg" height=350><img src="https://github.com/Tanvi-Goyal/PocketFeed/blob/master/screens/sudoku.jpg" height=350> 
 
 
 <br>
