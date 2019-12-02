@@ -9,4 +9,4 @@ PocketFeed is an Android Application designed to keep users updated on everyday 
 
 
 ### Projects
-- [My Porjects](https://docs.google.com/document/d/1JGS7Y9C-Uvwd2FrqEueNCd5HqaHRmZXijylkANqhW4M/edit#)
+- [My Projects](https://docs.google.com/document/d/1JGS7Y9C-Uvwd2FrqEueNCd5HqaHRmZXijylkANqhW4M/edit#)
