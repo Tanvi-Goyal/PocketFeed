@@ -24,7 +24,7 @@ I've referenced dribble for UI and layout for this App.
 
 - #### My Transactions
 
-<img src="https://raw.githubusercontent.comTanvi-Goyal/PocketFeed/master/screens/vision.png" height=350> <img src="https://raw.githubusercontent.com/Prashant-123/XpenseTracker/master/assets/2.png" height=350> 
+<img src="https://github.com/Tanvi-Goyal/PocketFeed/blob/master/screens/vision.jpg" height=350> <img src="https://raw.githubusercontent.com/Prashant-123/XpenseTracker/master/assets/2.png" height=350> 
 
 
 <br>
